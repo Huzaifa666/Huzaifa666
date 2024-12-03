@@ -1,1 +1,1 @@
-![Docker](images/docker1.png)
+![Docker](https://raw.githubusercontent.com/Huzaifa666/RestrictedContent/master/docker.png)
