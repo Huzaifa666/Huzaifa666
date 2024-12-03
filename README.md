@@ -1,11 +1,1 @@
-AWS
-
-PostgreSQL SQL Server
-
-Java Python
-
-Docker Terraform Jenkins
-
-spring
-
-React Vue JavaScript
+<mxGraphModel><root><mxCell id="0"/><mxCell id="1" parent="0"/><mxCell id="2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1"><mxGeometry x="-4320" y="430" width="50" height="41" as="geometry"/></mxCell></root></mxGraphModel>
