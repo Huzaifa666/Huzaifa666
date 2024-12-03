@@ -21,4 +21,8 @@
         <img width="6%" style="padding:5px" src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" alt="React" />
         <img width="6%" style="padding:5px" src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" alt="Vue" />
 </div>
+<div style="display: flex; justify-content: center; gap: 20px"></div>
+<div style="padding: 10px; display: flex; justify-content: center">
+    <a href="mailto:vakilhuzaifa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-black?logo=gmail" alt="gmail"></a>
+</div>
 </div>
