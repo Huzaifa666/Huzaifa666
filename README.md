@@ -1,3 +1,4 @@
+<div align="center">
 <div style="display: flex; justify-content: center; gap: 20px">
         <img width="6%" style="padding:5px" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="AWS" />
         <img width="6%" style="padding:5px" src="https://img.icons8.com/?size=100&id=WncR8Bcg5nE9&format=png&color=000000" alt="Terraform" />
@@ -18,4 +19,5 @@
 <div style="display: flex; justify-content: center; gap: 20px">
         <img width="6%" style="padding:5px" src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" alt="React" />
         <img width="6%" style="padding:5px" src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" alt="Vue" />
+</div>
 </div>
