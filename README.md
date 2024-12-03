@@ -22,7 +22,13 @@
         <img width="6%" style="padding:5px" src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" alt="Vue" />
 </div>
 <div style="display: flex; justify-content: center; gap: 20px"></div>
-<div style="padding: 10px; display: flex; justify-content: center">
-    <a href="mailto:vakilhuzaifa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-black?logo=gmail" alt="gmail"></a>
+<div style="padding: 10px; display: flex; justify-content: center; gap: 20px">
+    <a href="mailto:vakilhuzaifa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-black?logo=gmail" alt="gmail"></a>
+    <a href="https://bit.ly/huzaifavakilupwork" target="_blank"><img src="https://img.shields.io/badge/Upwork-black?logo=upwork" alt="Upwork"></a>
+</div>
+<div style="padding: 10px; display: flex; justify-content: center; gap: 20px">
+    <a href="https://www.linkedin.com/in/huzaifavakil/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-black?logo=linkedin&logoColor=blue" alt="gmail"></a>
+    <a href="https://x.com/Huzzi999" target="_blank"><img src="https://img.shields.io/badge/X-black?logo=X" alt="X"></a> 
+    <a href="https://github.com/Huzaifa666" target="_blank"><img src="https://komarev.com/ghpvc/?username=Huzaifa666&color=lightgrey" alt="Profile Views"></a>
 </div>
 </div>
