@@ -14,6 +14,7 @@
 <div style="display: flex; justify-content: center; gap: 20px">
         <img width="6%" style="padding:5px" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Boot" />
         <img width="6%" style="padding:5px" src="https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000" alt="Apache Spark" />
+<img width="6%" style="padding:5px" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" />
 </div>
 <div style="padding:2rem"></div>
 <div style="display: flex; justify-content: center; gap: 20px">
