@@ -1,1 +1,1 @@
-![Docker](images/docker.svg)
+![Docker](images/docker1.png)
